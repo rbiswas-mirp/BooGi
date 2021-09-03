@@ -23,7 +23,6 @@ Depending on the performance of your qualifier exam, you can take a certain numb
 |  Minimum Required <= S < 50%  |               Two (2)                 |
 |         50% <=S < 70%         |              Three (3)                |
 |            S > 70%            |              Four (4)                 |
-
 ### Minimum required marks category wise
 
 |               Category              |        Minimum Per Course Score       |      Minimum Total Exam Score      |
