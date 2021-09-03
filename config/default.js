@@ -1,6 +1,6 @@
 module.exports = {
   metadata: {
-    name: 'IITM Online B.Sc KB',
+    name: 'IITM KB',
     short_name: 'IITM KB',
     description: 'A Student-made Knowledge Base for IITM Online B.Sc Degree',
     language: 'en',
@@ -30,7 +30,7 @@ module.exports = {
   pwa: {
     enabled: true, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'IITM Online B.Sc KB',
+      name: 'IITM KB',
       short_name: 'IITM KB',
       start_url: '/',
       background_color: '#6b37bf',
