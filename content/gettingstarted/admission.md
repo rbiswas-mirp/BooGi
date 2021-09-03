@@ -29,6 +29,7 @@ Anyone opting for regular entry will start at the foundational level. The path t
 --B.Sc (Data Science and Programming)
     |
     |
+    ↓
 --Exit with B.Sc (Programming and Data Science)
 ```
 
