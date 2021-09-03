@@ -19,6 +19,7 @@ The qualifier exam will be held on a Sunday after all of the qualifier content h
 Depending on the performance of your qualifier exam, you can take a certain number of courses for the foundational level. More information about this is given in the table below:
 
 |   Total Qualifier Score (S)   | Number of courses allowed to register |
+|  :-------------------------:  |      :-------------------------:      |
 |  Minimum Required <= S < 50%  |               Two (2)                 |
 |         50% <=S < 70%         |              Three (3)                |
 |            S > 70%            |              Four (4)                 |
@@ -28,6 +29,7 @@ Depending on the performance of your qualifier exam, you can take a certain numb
 ### Minimum required marks category wise
 
 |               Category              |        Minimum Per Course Score       |      Minimum Total Exam Score      |
+|     :-------------------------:     |     :-------------------------:       |    :-------------------------:     |
 |               General               |                 40%                   |                50%                 |
 |  SC / ST / PwD with 40% disability  |                 30%                   |                40%                 |
 |  PwD with 40% disability & SC / ST  |                 30%                   |                40%                 |
