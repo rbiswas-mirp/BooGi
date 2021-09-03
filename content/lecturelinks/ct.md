@@ -7,7 +7,7 @@ order: 4
 
 You can find the Computational Thinking lecture playlist below:
 
-https://youtu.be/dQw4w9WgXcQ
+https://youtu.be/k3tRp-OW9oQ
 
 ###### Source: IITM Online B.Sc Website [LINK](https://onlinedegree.iitm.ac.in/)
 
