@@ -1,6 +1,6 @@
 ---
 metadata:
-  name: IITM Online Degree KB 
+  name: IITM Online Degree 
   short_name: IITM KB
   description: A Student-made Knowledge Base for IITM Online B.Sc Degree
   language: en
@@ -14,9 +14,9 @@ header:
   logoLink: "/"
   helpUrl: ""
   links:
-    - text: Docs
-      link: "/"
-      external: false
+    - text: Contact
+      link: "mailto:biswasrahul016@gmail.com"
+      external: true
 sidebar:
   enabled: true
   # forcedNavOrder:
