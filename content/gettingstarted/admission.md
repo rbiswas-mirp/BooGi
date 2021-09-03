@@ -50,7 +50,7 @@ The path that one has to follow in this is given below:
 --Exit with Diploma(s)
 ```
 
-...
+***
 
 For more information, visit the official website of IITM Online Degree by clicking [HERE](https://onlinedegree.iitm.ac.in/admissions.html)
 
