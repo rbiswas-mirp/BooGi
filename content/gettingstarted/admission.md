@@ -4,9 +4,12 @@ order: 1
 ---
 
 # Types of Admission
+
 There are two types of admissions:
+
 - Regular Entry
 - Diploma-only Entry
+
 ### Regular Entry
 
 Anyone opting for regular entry will start at the foundational level. The path that one has to follow in this is given below:

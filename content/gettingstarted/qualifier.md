@@ -8,10 +8,12 @@ order: 2
 If you have selected the [Regular Entry](../admission#regularentry), then this will be the first level that you have to pass.
 
 Anyone opting for regular entry will start at the foundational level. Before you get admission into the foundational level, you have to give the qualifier exam. The qualifier exam syllabus is as follows:
+
 - Computational Thinking (BSCCS1001) - First 4 week's content
 - English I (BSCHS1001) - First 4 week's content
 - Statistics for Data Science I (BSCMA1002) - First 4 week's content
 - Mathematics for Data Science I (BSCMA1001) - First 4 week's content
+
 The qualifier exam will be held on a Sunday after all of the qualifier content has been released. Result will be declared within a week from the date of the exam and only then you can register for the Foundational level.
 
 Depending on the performance of your qualifier exam, you can take a certain number of courses for the foundational level. More information about this is given in the table below:
@@ -21,7 +23,9 @@ Depending on the performance of your qualifier exam, you can take a certain numb
 |  Minimum Required <= S < 50%  |               Two (2)                 |
 |         50% <=S < 70%         |              Three (3)                |
 |            S > 70%            |              Four (4)                 |
+
 ### Minimum required marks category wise
+
 |               Category              |        Minimum Per Course Score       |      Minimum Total Exam Score      |
 |     :-------------------------:     |     :-------------------------:       |    :-------------------------:     |
 |               General               |                 40%                   |                50%                 |
