@@ -50,6 +50,12 @@ The path that one has to follow in this is given below:
 --Exit with Diploma(s)
 ```
 
+# Exam Path Infographic
+
+![Exam Path Infographic](../images/programme_structure.jpg)
+
+###### Source: IITM Online B.Sc Website [LINK](https://onlinedegree.iitm.ac.in/academics.html)
+
 For more information, visit the official website of IITM Online Degree by clicking [HERE](https://onlinedegree.iitm.ac.in/admissions.html)
 
 **(DISCLAIMER: THIS WEBSITE IS NOT AFFILIATED WITH IITM ONLINE DEGREE. IT'S JUST A SITE FOR AGGREGATING ALL THE ANNOUNCEMENTS,
