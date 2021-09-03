@@ -52,6 +52,10 @@ features:
   darkMode:
     enabled: true  
     default: false
+  editOnRepo:
+    location: https://github.com/filipowm/boogi 
+    type: github
+    editable: false
   mermaid:
     language: "mermaid"
     theme: "dark"
