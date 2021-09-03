@@ -16,7 +16,7 @@ Anyone opting for regular entry will start at the foundational level. The path t
 ```bash
 --Start
     |
-    |
+    | (Qualifier Exam)
     ↓
 --Foundational --> (Exit with foundational level certificate)
     |
