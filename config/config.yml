@@ -77,11 +77,11 @@ features:
   propagateNetlifyEnv: true
   rss:
     enabled: true
-    title: BooGi Docs
+    title: IITM KB
     showIcon: false
-    copyright: "2020, Mateusz Filipowicz"
-    webMaster: "Mateusz Filipowicz"
-    managingEditor: "Mateusz Filipowicz"
+    copyright: "2021, Rahul Biswas"
+    webMaster: "Rahul Biswas"
+    managingEditor: "Rahul Biswas"
     categories:
       - Docs as Code
       - GatsbyJS
@@ -92,8 +92,11 @@ features:
   scrollTop: true
   search:
     enabled: true
-    engine: 'localsearch'
-    localSearchEngine: 'balance'
+    indexName: 'IITM_OBSC_KB'
+    algoliaAppId: '51YKLMANJN'
+    algoliaSearchKey: '2f6eeeac03d6b05323096cfdacd997f8'
+    algoliaAdminKey: '0b2d70399375e6cff2116d7eb1ca1616'
+    engine: 'algolia'
     placeholder: 'Search'
     startComponent: 'input' # icon
     excerptSize: 8000
