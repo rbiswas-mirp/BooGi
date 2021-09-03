@@ -5,7 +5,7 @@ order: 2
 
 # Qualifier Level
 
-If you have selected the ![Regular Entry](./admission#regularentry), then this will be the first level that you have to pass.
+If you have selected the [Regular Entry](./admission#regularentry), then this will be the first level that you have to pass.
 
 Anyone opting for regular entry will start at the foundational level. Before you get admission into the foundational level, you have to give the qualifier exam. The qualifier exam syllabus is as follows:
 
