@@ -1,13 +1,13 @@
 ---
-title: 'English'
-order: 1
+title: 'Maths'
+order: 2
 ---
 
-# English Lectures Link
+# Maths Lectures Link
 
-You can find the English lecture playlist below:
+You can find the Maths lecture playlist below:
 
-https://youtu.be/VbeS-GMWsJ0
+https://youtu.be/F9BZ5JsnjYM
 
 ###### Source: IITM Online B.Sc Website [LINK](https://onlinedegree.iitm.ac.in/)
 

@@ -1,13 +1,13 @@
 ---
-title: 'English'
-order: 1
+title: 'Statistics'
+order: 3
 ---
 
-# English Lectures Link
+# Statistics Lectures Link
 
-You can find the English lecture playlist below:
+You can find the Statistics lecture playlist below:
 
-https://youtu.be/VbeS-GMWsJ0
+https://youtu.be/V5fqShLVpoI
 
 ###### Source: IITM Online B.Sc Website [LINK](https://onlinedegree.iitm.ac.in/)
 

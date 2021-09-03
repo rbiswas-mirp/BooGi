@@ -1,13 +1,13 @@
 ---
-title: 'English'
-order: 1
+title: 'Computational Thinking'
+order: 4
 ---
 
-# English Lectures Link
+# Computational Thinking Lectures Link
 
-You can find the English lecture playlist below:
+You can find the Computational Thinking lecture playlist below:
 
-https://youtu.be/VbeS-GMWsJ0
+https://youtu.be/dQw4w9WgXcQ
 
 ###### Source: IITM Online B.Sc Website [LINK](https://onlinedegree.iitm.ac.in/)
 
