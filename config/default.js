@@ -1,10 +1,10 @@
 module.exports = {
   metadata: {
-    name: 'BooGi',
-    short_name: 'BooGi',
-    description: '',
+    name: 'IITM Online Degree Knowledge Base',
+    short_name: 'IITM KB',
+    description: 'A Student-made Knowledge Base for IITM Online B.Sc Degree',
     language: 'en',
-    url: 'http://localhost',
+    url: 'https://iitm-kb.vercel.app/',
     pathPrefix: '/',
     gaTrackingId: null,
     siteImage: null,
@@ -51,13 +51,7 @@ module.exports = {
     twich: '',
     twitter: '',
     youtube: '',
-  },
-  features: {
-    editOnRepo: {
-      editable: true,
-      location: 'https://github.com/filipowm/boogi',
-      type: 'github',
-    },
+
     search: {
       enabled: true,
       indexName: 'docs',
