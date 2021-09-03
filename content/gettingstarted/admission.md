@@ -4,7 +4,6 @@ order: 1
 ---
 
 # Types of Admission
-
 There are two types of admissions:
 - Regular Entry
 - Diploma-only Entry
