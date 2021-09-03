@@ -30,8 +30,8 @@ module.exports = {
   pwa: {
     enabled: true, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'BooGi',
-      short_name: 'BooGi',
+      name: 'IITM Online B.Sc KB',
+      short_name: 'IITM KB',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
