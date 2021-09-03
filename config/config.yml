@@ -18,7 +18,7 @@ header:
       link: "mailto:biswasrahul016@gmail.com"
       external: true
     - text: Contact IITM Suppport
-      link: "support@onlinedegree.iitm.ac.in"
+      link: "mailto:support@onlinedegree.iitm.ac.in"
       external: true
 sidebar:
   enabled: true
