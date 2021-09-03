@@ -31,18 +31,6 @@ sidebar:
     - order: 1
       path: "/gettingstarted"
       title: ":school: Getting Started"
-    - order: 2
-      path: "/configuration"
-      title: ":wrench: Configuration"
-    - order: 3
-      path: "/editing"
-      title: ":writing_hand: Editing Content"
-    - order: 4
-      path: "/deployment"
-      title: ":rocket: Deployment"
-    - order: 5
-      path: "/developing"
-      title: ":computer: Developing"
   ignoreIndex: false
 pwa:
   enabled: true
