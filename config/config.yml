@@ -31,6 +31,9 @@ sidebar:
     - order: 1
       path: "/gettingstarted"
       title: ":school: Getting Started"
+    - order: 2
+      path: "/lecturelinks"
+      title: ":book: Lecture Links"
   ignoreIndex: false
 pwa:
   enabled: true
