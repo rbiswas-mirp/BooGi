@@ -14,8 +14,11 @@ header:
   logoLink: "/"
   helpUrl: ""
   links:
-    - text: Contact
+    - text: Contact Me
       link: "mailto:biswasrahul016@gmail.com"
+      external: true
+    - text: Contact IITM Suppport
+      link: "support@onlinedegree.iitm.ac.in"
       external: true
 sidebar:
   enabled: true
