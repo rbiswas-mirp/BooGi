@@ -1,6 +1,6 @@
 module.exports = {
   metadata: {
-    name: 'IITM Online Degree Knowledge Base',
+    name: 'IITM Online Degree KB',
     short_name: 'IITM KB',
     description: 'A Student-made Knowledge Base for IITM Online B.Sc Degree',
     language: 'en',
