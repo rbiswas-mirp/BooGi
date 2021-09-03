@@ -11,8 +11,8 @@ Anyone opting for regular entry will start at the foundational level. Before you
 
 - Computational Thinking (BSCCS1001) - First 4 week's content
 - English I (BSCHS1001) - First 4 week's content
-- Statistics for Data Science I (BSCMA1002) - First 4 weeks
-- Mathematics for Data Science I (BSCMA1001) - First 4 weeks
+- Statistics for Data Science I (BSCMA1002) - First 4 week's content
+- Mathematics for Data Science I (BSCMA1001) - First 4 week's content
 
 The qualifier exam will be held on a Sunday after all of the qualifier content has been released. Result will be declared within a week from the date of the exam and only then you can register for the Foundational level.
 
