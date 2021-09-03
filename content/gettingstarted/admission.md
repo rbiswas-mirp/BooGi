@@ -18,11 +18,11 @@ Anyone opting for regular entry will start at the foundational level. The path t
     |
     |
     ↓
---Foundational --→ (Exit with foundational level certificate)
+--Foundational --> (Exit with foundational level certificate)
     |
     |
     ↓
---Diploma (Data Science OR Programming OR BOTH) --→ Exit with Diploma(s)
+--Diploma (Data Science OR Programming OR BOTH) --> Exit with Diploma(s)
     |
     |
     ↓
